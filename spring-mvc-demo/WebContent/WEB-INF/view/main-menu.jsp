@@ -12,7 +12,11 @@
 
 <hr>
 
-<a href="showForm">Go to form</a>
+<a href="hello/showForm">Hello form</a>
+<br><br>
+<hr>
+
+<a href="student/showForm">Student form</a>
 
 </body>
 
